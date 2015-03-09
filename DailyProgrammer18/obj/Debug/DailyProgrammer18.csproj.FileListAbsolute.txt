@@ -1,0 +1,8 @@
+C:\Users\Technologist SP\Documents\DailyProgrammer18\DailyProgrammer18\bin\Debug\DailyProgrammer18.exe.config
+C:\Users\Technologist SP\Documents\DailyProgrammer18\DailyProgrammer18\bin\Debug\DailyProgrammer18.exe
+C:\Users\Technologist SP\Documents\DailyProgrammer18\DailyProgrammer18\bin\Debug\DailyProgrammer18.pdb
+C:\Users\Technologist SP\Documents\DailyProgrammer18\DailyProgrammer18\obj\Debug\DailyProgrammer18.exe
+C:\Users\Technologist SP\Documents\DailyProgrammer18\DailyProgrammer18\obj\Debug\DailyProgrammer18.pdb
+C:\Users\Technologist SP\Documents\DailyProgrammer18\DailyProgrammer18\bin\Debug\nunit.framework.dll
+C:\Users\Technologist SP\Documents\DailyProgrammer18\DailyProgrammer18\bin\Debug\nunit.framework.xml
+C:\Users\Technologist SP\Documents\DailyProgrammer18\DailyProgrammer18\obj\Debug\DailyProgrammer18.csprojResolveAssemblyReference.cache
